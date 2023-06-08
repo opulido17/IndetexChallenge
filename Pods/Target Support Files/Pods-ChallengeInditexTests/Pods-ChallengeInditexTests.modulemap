@@ -1,0 +1,6 @@
+framework module Pods_ChallengeInditexTests {
+  umbrella header "Pods-ChallengeInditexTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
